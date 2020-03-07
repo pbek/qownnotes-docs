@@ -4,5 +4,5 @@ build:
 python:
   setup_py_install: true
 
-requirements_file: docs/requirements.txt
+requirements_file: requirements.txt
 

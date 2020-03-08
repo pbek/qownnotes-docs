@@ -76,8 +76,9 @@ nav:
       - 'CLI parameters': 'getting-started/cli-parameters.md'
   - 'Editor':
       - 'Spellchecking': 'editor/spellchecking.md'
+      - 'Time formats': 'editor/time-formats.md'
   - 'Scripting':
-      - 'Scripting': 'scripting/scripting.md'
+      - 'Basics': 'scripting/basics.md'
       - 'Methods and objects': 'scripting/methods-and-objects.md'
       - 'Hooks': 'scripting/hooks.md'
       - 'Exposed classes': 'scripting/classes.md'

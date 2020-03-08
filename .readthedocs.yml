@@ -1,10 +1,12 @@
-build:
-  image: latest
+version: 2
 
 mkdocs:
   configuration: docs/mkdocs.yml
 
-requirements_file: docs/requirements.txt
-
 # Build docs in additional formats such as PDF and ePub
 formats: all
+
+python:
+  version: 3.7
+  install:
+    - requirements: docs/requirements.txt

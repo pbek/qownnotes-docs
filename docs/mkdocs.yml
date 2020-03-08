@@ -21,8 +21,8 @@ theme:
     tabs: false
   palette:
     # https://github.com/squidfunk/mkdocs-material/blob/eab7148337dc7f0e9304850b606a123da6b8d559/src/assets/stylesheets/application-palette.scss#L70-L90
-    primary: 'blue-grey'
-    accent: 'blue-grey'
+    primary: 'black'
+    accent: 'black'
   i18n:
     prev: 'Previous'
     next: 'Next'

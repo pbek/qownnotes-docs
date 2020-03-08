@@ -20,9 +20,10 @@ theme:
   feature:
     tabs: false
   palette:
+    # https://squidfunk.github.io/mkdocs-material/getting-started/#color-palette
     # https://github.com/squidfunk/mkdocs-material/blob/eab7148337dc7f0e9304850b606a123da6b8d559/src/assets/stylesheets/application-palette.scss#L70-L90
-    primary: 'black'
-    accent: 'black'
+    primary: 'blue-grey'
+    accent: 'blue'
   i18n:
     prev: 'Previous'
     next: 'Next'
@@ -78,7 +79,7 @@ nav:
       - 'Spellchecking': 'editor/spellchecking.md'
       - 'Time formats': 'editor/time-formats.md'
   - 'Scripting':
-      - 'Basics': 'scripting/basics.md'
+      - 'Basics': 'scripting/index.md'
       - 'Methods and objects': 'scripting/methods-and-objects.md'
       - 'Hooks': 'scripting/hooks.md'
       - 'Exposed classes': 'scripting/classes.md'

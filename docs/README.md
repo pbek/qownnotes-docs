@@ -1,4 +1,4 @@
-# Documentation
+# QOwnNotes Documentation
 
 ## Tooling
 

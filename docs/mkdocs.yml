@@ -1,4 +1,4 @@
-site_name: QOwnNotes
+site_name: QOwnNotes documentation
 site_description: QOwnNotes Documentation
 site_author: qownnotes.org
 site_url: https://docs.qownnotes.org
@@ -73,7 +73,11 @@ nav:
   - 'Welcome': 'index.md'
   - 'Getting Started':
       - 'Install QOwnNotes': 'getting-started/install-qownnotes.md'
+      - 'CLI parameters': 'getting-started/cli-parameters.md'
   - 'Editor':
       - 'Spellchecking': 'editor/spellchecking.md'
   - 'Scripting':
       - 'Scripting': 'scripting/scripting.md'
+      - 'Methods and objects': 'scripting/methods-and-objects.md'
+      - 'Hooks': 'scripting/hooks.md'
+      - 'Exposed classes': 'scripting/classes.md'

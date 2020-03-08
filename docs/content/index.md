@@ -11,4 +11,4 @@ of [ownCloud](https://owncloud.org/) or [Nextcloud](https://nextcloud.com/).
 
 !!! info
 
-    Join our [Telegram Group](https://t.me/QOwnNotes) to discuss, learn, and connect with the traefik community.
+    Join our [Telegram Group](https://t.me/QOwnNotes) to discuss, learn, and connect with the QOwnNotes community.
